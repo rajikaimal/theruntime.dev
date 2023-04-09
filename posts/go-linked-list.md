@@ -6,6 +6,8 @@ publish_date: 2023-04-10
 A basic implementation of a LinkedList in Go.
 
 ```go
+package main
+
 type Node struct {
 	data string
 	next *Node
