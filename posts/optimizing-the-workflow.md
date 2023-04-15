@@ -20,6 +20,6 @@ I've started producing more output in a meaningful manner with these tools.
 - Straighforward function logic suggestions (I guess this is part of boilerplate code?)
 - Drafting complex functions
 
-Pretty excited about [Copilot X](https://www.youtube.com/watch?v=4RfD5JiXt3A).
+Pretty excited about [Copilot X](https://www.youtube.com/watch?v=4RfD5JiXt3A) and [AWS CodeWhisperer](https://aws.amazon.com/codewhisperer/).
 
 [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/#)
