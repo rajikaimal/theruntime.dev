@@ -3,8 +3,6 @@ title: "What's your value proposition as an Engineer?"
 publish_date: 2023-04-16
 ---
 
-## Your value proposition
-
 Types of engineers,
 
 1. Specialists - Specialize in a particular area, eg: Front-end, Back-end, DevOps, SRE etc.
