@@ -11,7 +11,7 @@ Types of engineers,
 ## My value proposition
 
 Right now, I consider myself as a generalist. I've always wanted to explore end-to-end of stacks and understand
-how how systems work. At certain points I've considered becoming a specialist, but I always get bored
+how systems work. At certain points I've considered becoming a specialist, but I always get bored
 when working on the same thing for a prolonged period of time. This doesn't mean I don't believe in
 specialists. They are so important for highly complex systems.
 
