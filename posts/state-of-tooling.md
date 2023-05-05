@@ -77,7 +77,6 @@ ref: [https://webpack.js.org/](https://webpack.js.org/)
 
 ## 🔨 Build Systems
 
-- ESBuild - [https://esbuild.github.io/](https://esbuild.github.io/)
 - TurboRepo - [https://turbo.build/repo](https://turbo.build/repo)
 
 ## 🏝️ Architectures
