@@ -3,7 +3,7 @@ title: "tmux"
 publish_date: 2023-08-16
 ---
 
-tmux has been in my dev worklfow for a brief time. However at the time I wasn't fully comfortable with
+tmux has been in my dev workflow for a brief time. However, at the time I wasn't fully comfortable with
 vim.
 
 Now that I've used vim (neovim/VSCode with vim bindings), I've switched to tmux to manage windows
