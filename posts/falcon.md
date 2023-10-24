@@ -3,7 +3,7 @@ title: "falcon"
 publish_date: 2023-10-25
 ---
 
-[falcon](https://github.com/rajikaimal/falcon) 🚀 is a static generator running on Bun. Currently it's a work in progress. 🚧
+[falcon](https://github.com/rajikaimal/falcon) 🚀 is a React static generator running on Bun. Currently it's a work in progress. 🚧
 The goal of this project is to experiment how Bun performs with static site generation compared to other existing solutions.
 
 The implementation isn't novel. Many of the APIs are directly inspired by Remix, and Next.js.
