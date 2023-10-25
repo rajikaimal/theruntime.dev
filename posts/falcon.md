@@ -73,4 +73,4 @@ export default function PokemonsPage({ data }: Props) {
 
 ## Live Reload
 
-https://github.com/rajikaimal/theruntime.dev/blob/master/posts/falcon.md#live-reload
+https://github.com/rajikaimal/falcon/tree/main/packages/falcon#live-reload
