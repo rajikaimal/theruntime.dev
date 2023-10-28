@@ -1,4 +1,5 @@
 import blog, { ga, redirects } from "https://deno.land/x/blog@0.7.0/blog.tsx";
+import { UNOCSS_OPTS } from "./unocss.ts";
 
 blog({
   title: "theruntime.dev",
@@ -21,4 +22,5 @@ blog({
       "esbuild.html": "/esbuild",
     }),
   ],
+  unocss: UNOCSS_OPTS,
 });
