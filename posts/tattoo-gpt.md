@@ -3,9 +3,9 @@ title: "tattooGPT"
 publish_date: 2023-10-29
 ---
 
-[tattooGPT](https://github.com/rajikaimal/tattoo-gpt) is an application where you can generate tattoos very quickly based on ideas.
-You can go from an idea to a live piece in seconds. All you have to do is prompt the application
-with your idea keywords and it will give you an image of the tattoo.
+[tattooGPT](https://github.com/rajikaimal/tattoo-gpt) is an application where you can quickly generate tattoos based on keywords.
+You can go from an idea to a live piece in seconds. All you have to do is, prompt the application
+with a few idea keywords and it will give you an image of the tattoo.
 
 <img width="1552" alt="gpt" src="https://github.com/rajikaimal/theruntime.dev/assets/8940086/5fdf9176-d309-42d8-a1c9-0006f1d99576">
 
